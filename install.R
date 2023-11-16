@@ -1,0 +1,5 @@
+install.packages("dplyr")
+install.packages("ggplot2")
+install.packages("scales")
+install.packages("correlation")
+install.packages("sjPlot")
